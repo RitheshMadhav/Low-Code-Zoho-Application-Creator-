@@ -1,0 +1,1120 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 9 0 R 11 0 R 13 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3502
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.733333 .733333 .733333 RG
+n 56.69291 807.874 m 538.5827 807.874 l S
+BT /F1 7.5 Tf 9 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 251.6403 25.51181 Tm (Experiment No. 2  |  Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 775.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL 352.4558 0 Td (NAME: RITHESH MADHAV S) Tj T* -352.4558 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 757.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL 385.1358 0 Td (ROLL NO: 240701428) Tj T* -385.1358 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 740.6929 cm
+Q
+q
+1 0 0 1 57.02362 722.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL 183.4312 0 Td (Experiment No. 2) Tj T* -183.4312 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 678.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F2 14 Tf 18 TL 35.64017 0 Td (Setting up a Zoho Creator account and exploring the platform) Tj T* 119.392 0 Td (architecture and interface) Tj T* -155.0322 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (1. Aim) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 623.2929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17 Tm /F1 9.4 Tf 13.2 TL (To set up a Zoho Creator account, create a sample application, create and understand a form, report and) Tj T* (dashboard, and explore the Develop, Deploy and Manage sections of the Zoho Creator platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 603.2929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (2. Setting up Zoho Creator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 584.2929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (I\) Create the Sample Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.0929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (1. Open the Zoho Creator website and sign in or create a Zoho account.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 545.8929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (2. From the Creator home page, choose the option to create a new application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 526.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (3. Select a blank application or a suitable template and provide the application name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 507.4929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (4. Create the application and open its design/development workspace.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 488.2929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (5. Add the required components such as forms, reports and pages to build the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.2929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Sample Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.6929 cm
+q
+BT 1 0 0 1 0 30.2 Tm 13.2 TL /F1 9.4 Tf 0 0 0 rg (A sample ) Tj /F2 9.4 Tf (Student Management) Tj /F1 9.4 Tf ( application is created for this experiment. The application can collect student) Tj T* (details through a form, display the stored records through reports, and summarize important information through a) Tj T* (dashboard. This sample demonstrates the basic low-code application-building workflow in Zoho Creator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 404.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (II\) Creating Form, Report and Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 385.4929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (The following interface illustrations show the three main components required in the experiment.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+56.69291 803.622 481.8898 8.503937 re
+f*
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 10603
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.733333 .733333 .733333 RG
+n 56.69291 807.874 m 538.5827 807.874 l S
+BT /F1 7.5 Tf 9 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 251.6403 25.51181 Tm (Experiment No. 2  |  Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 772.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (II\) Creating Form, Report and Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 753.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (A. Creating a Form) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 560.7795 cm
+.533333 .533333 .533333 RG
+.968627 .972549 .980392 rg
+n
+4 0 m
+477.8898 0 l
+480.101 0 481.8898 1.7888 481.8898 4 c
+481.8898 185.9213 l
+481.8898 188.1325 480.101 189.9213 477.8898 189.9213 c
+4 189.9213 l
+1.7888 189.9213 0 188.1325 0 185.9213 c
+0 4 l
+0 1.7888 1.7888 0 4 0 c
+h
+B*
+.14902 .196078 .219608 rg
+n 0 153.0709 481.8898 36.85039 re f*
+BT /F2 7.5 Tf 9 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 14.17323 167.2441 Tm (Zoho Creator) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 362.8346 167.2441 Tm (Develop   Deploy   Manage) Tj T* ET
+.933333 .945098 .956863 rg
+n 0 0 104.8819 153.0709 re f*
+.862745 .921569 1 rg
+n
+10.50394 119.0551 m
+94.37795 119.0551 l
+95.48355 119.0551 96.37795 119.9495 96.37795 121.0551 c
+96.37795 136.8976 l
+96.37795 138.0032 95.48355 138.8976 94.37795 138.8976 c
+10.50394 138.8976 l
+9.398337 138.8976 8.503937 138.0032 8.503937 136.8976 c
+8.503937 121.0551 l
+8.503937 119.9495 9.398337 119.0551 10.50394 119.0551 c
+h
+f*
+BT /F2 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 124.7244 Tm (Forms) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 96.37795 Tm (Reports) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 68.0315 Tm (Pages) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 39.68504 Tm (Workflows) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 11.33858 Tm (Settings) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 138.8976 Tm (Create Form) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 119.0551 Tm (Student Registration) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 90.70866 Tm (Name) Tj T* ET
+1 1 1 rg
+.721569 .752941 .784314 RG
+n
+197.5906 83.62205 m
+377.8425 83.62205 l
+378.9481 83.62205 379.8425 84.51645 379.8425 85.62205 c
+379.8425 98.62992 l
+379.8425 99.73552 378.9481 100.6299 377.8425 100.6299 c
+197.5906 100.6299 l
+196.485 100.6299 195.5906 99.73552 195.5906 98.62992 c
+195.5906 85.62205 l
+195.5906 84.51645 196.485 83.62205 197.5906 83.62205 c
+h
+B*
+BT /F1 6 Tf 7.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 201.2598 90.70866 Tm (Single Line) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 65.19685 Tm (Email) Tj T* ET
+1 1 1 rg
+.721569 .752941 .784314 RG
+n
+197.5906 58.11024 m
+377.8425 58.11024 l
+378.9481 58.11024 379.8425 59.00464 379.8425 60.11024 c
+379.8425 73.11811 l
+379.8425 74.22371 378.9481 75.11811 377.8425 75.11811 c
+197.5906 75.11811 l
+196.485 75.11811 195.5906 74.22371 195.5906 73.11811 c
+195.5906 60.11024 l
+195.5906 59.00464 196.485 58.11024 197.5906 58.11024 c
+h
+B*
+BT /F1 6 Tf 7.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 201.2598 65.19685 Tm (Email) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 39.68504 Tm (Department) Tj T* ET
+1 1 1 rg
+.721569 .752941 .784314 RG
+n
+197.5906 32.59843 m
+377.8425 32.59843 l
+378.9481 32.59843 379.8425 33.49283 379.8425 34.59843 c
+379.8425 47.6063 l
+379.8425 48.7119 378.9481 49.6063 377.8425 49.6063 c
+197.5906 49.6063 l
+196.485 49.6063 195.5906 48.7119 195.5906 47.6063 c
+195.5906 34.59843 l
+195.5906 33.49283 196.485 32.59843 197.5906 32.59843 c
+h
+B*
+BT /F1 6 Tf 7.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 201.2598 39.68504 Tm (Dropdown) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 14.17323 Tm (Phone) Tj T* ET
+1 1 1 rg
+.721569 .752941 .784314 RG
+n
+197.5906 7.086614 m
+377.8425 7.086614 l
+378.9481 7.086614 379.8425 7.981014 379.8425 9.086614 c
+379.8425 22.09449 l
+379.8425 23.20009 378.9481 24.09449 377.8425 24.09449 c
+197.5906 24.09449 l
+196.485 24.09449 195.5906 23.20009 195.5906 22.09449 c
+195.5906 9.086614 l
+195.5906 7.981014 196.485 7.086614 197.5906 7.086614 c
+h
+B*
+BT /F1 6 Tf 7.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 201.2598 14.17323 Tm (Phone Number) Tj T* ET
+.231373 .509804 .964706 rg
+n
+197.5906 11.33858 m
+264.4567 11.33858 l
+265.5623 11.33858 266.4567 12.23298 266.4567 13.33858 c
+266.4567 29.1811 l
+266.4567 30.2867 265.5623 31.1811 264.4567 31.1811 c
+197.5906 31.1811 l
+196.485 31.1811 195.5906 30.2867 195.5906 29.1811 c
+195.5906 13.33858 l
+195.5906 12.23298 196.485 11.33858 197.5906 11.33858 c
+h
+f*
+1 1 1 rg
+BT /F2 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 220.0094 18.4252 Tm (Submit) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 555.1102 cm
+Q
+q
+1 0 0 1 57.02362 496.3102 cm
+q
+BT 1 0 0 1 0 43.4 Tm 13.2 TL /F2 9.4 Tf 0 0 0 rg (Explanation:) Tj /F1 9.4 Tf ( A form is used to collect information from users. In the sample application, a Student Registration) Tj T* (form can contain fields such as Name, Email, Department and Phone Number. The fields are arranged in the form) Tj T* (builder and configured with appropriate data types and validation. When the user submits the form, the record is) Tj T* (stored in the application and can later be viewed through reports.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 477.3102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (B. Creating a Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.389 cm
+.533333 .533333 .533333 RG
+.968627 .972549 .980392 rg
+n
+4 0 m
+477.8898 0 l
+480.101 0 481.8898 1.7888 481.8898 4 c
+481.8898 185.9213 l
+481.8898 188.1325 480.101 189.9213 477.8898 189.9213 c
+4 189.9213 l
+1.7888 189.9213 0 188.1325 0 185.9213 c
+0 4 l
+0 1.7888 1.7888 0 4 0 c
+h
+B*
+.14902 .196078 .219608 rg
+n 0 153.0709 481.8898 36.85039 re f*
+BT /F2 7.5 Tf 9 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 14.17323 167.2441 Tm (Zoho Creator) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 362.8346 167.2441 Tm (Develop   Deploy   Manage) Tj T* ET
+.933333 .945098 .956863 rg
+n 0 0 104.8819 153.0709 re f*
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 124.7244 Tm (Forms) Tj T* ET
+.862745 .921569 1 rg
+n
+10.50394 90.70866 m
+94.37795 90.70866 l
+95.48355 90.70866 96.37795 91.60306 96.37795 92.70866 c
+96.37795 108.5512 l
+96.37795 109.6568 95.48355 110.5512 94.37795 110.5512 c
+10.50394 110.5512 l
+9.398337 110.5512 8.503937 109.6568 8.503937 108.5512 c
+8.503937 92.70866 l
+8.503937 91.60306 9.398337 90.70866 10.50394 90.70866 c
+h
+f*
+BT /F2 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 96.37795 Tm (Reports) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 68.0315 Tm (Pages) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 39.68504 Tm (Workflows) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 11.33858 Tm (Settings) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 138.8976 Tm (Create Report) Tj T* ET
+BT /F2 7.5 Tf 9 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 119.0551 Tm (Based on: Student Registration) Tj T* ET
+.909804 .933333 .960784 rg
+n 121.8898 93.54331 90.70866 22.67717 re B*
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 127.5591 100.6299 Tm (Name) Tj T* ET
+.909804 .933333 .960784 rg
+n 212.5984 93.54331 127.5591 22.67717 re B*
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 218.2677 100.6299 Tm (Email) Tj T* ET
+.909804 .933333 .960784 rg
+n 340.1575 93.54331 99.2126 22.67717 re B*
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 345.8268 100.6299 Tm (Department) Tj T* ET
+.909804 .933333 .960784 rg
+n 439.3701 93.54331 99.2126 22.67717 re B*
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 445.0394 100.6299 Tm (Phone) Tj T* ET
+1 1 1 rg
+n 121.8898 70.86614 90.70866 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 127.5591 77.95276 Tm (Rithesh) Tj T* ET
+1 1 1 rg
+n 212.5984 70.86614 127.5591 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 218.2677 77.95276 Tm (rithesh@gmail.com) Tj T* ET
+1 1 1 rg
+n 340.1575 70.86614 99.2126 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 345.8268 77.95276 Tm (CSE) Tj T* ET
+1 1 1 rg
+n 439.3701 70.86614 99.2126 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 445.0394 77.95276 Tm (98765XXXXX) Tj T* ET
+1 1 1 rg
+n 121.8898 48.18898 90.70866 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 127.5591 55.27559 Tm (Student 2) Tj T* ET
+1 1 1 rg
+n 212.5984 48.18898 127.5591 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 218.2677 55.27559 Tm (student2@gmail.com) Tj T* ET
+1 1 1 rg
+n 340.1575 48.18898 99.2126 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 345.8268 55.27559 Tm (IT) Tj T* ET
+1 1 1 rg
+n 439.3701 48.18898 99.2126 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 445.0394 55.27559 Tm (98765XXXXX) Tj T* ET
+1 1 1 rg
+n 121.8898 25.51181 90.70866 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 127.5591 32.59843 Tm (Student 3) Tj T* ET
+1 1 1 rg
+n 212.5984 25.51181 127.5591 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 218.2677 32.59843 Tm (student3@gmail.com) Tj T* ET
+1 1 1 rg
+n 340.1575 25.51181 99.2126 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 345.8268 32.59843 Tm (ECE) Tj T* ET
+1 1 1 rg
+n 439.3701 25.51181 99.2126 22.67717 re B*
+BT /F1 5.8 Tf 6.96 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 445.0394 32.59843 Tm (98765XXXXX) Tj T* ET
+BT /F2 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 17.00787 Tm (Filter   Sort   Search   Edit   Delete) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 278.7197 cm
+Q
+q
+1 0 0 1 57.02362 233.1197 cm
+q
+BT 1 0 0 1 0 30.2 Tm 13.2 TL /F2 9.4 Tf 0 0 0 rg (Explanation:) Tj /F1 9.4 Tf ( A report is used to display and manage the records collected through a form. A report can present the) Tj T* (records in a list or other suitable format. It allows users to search, filter, sort and manage the stored information. In) Tj T* (this experiment, the Student Registration records are displayed as a report.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 8115
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.733333 .733333 .733333 RG
+n 56.69291 807.874 m 538.5827 807.874 l S
+BT /F1 7.5 Tf 9 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 251.6403 25.51181 Tm (Experiment No. 2  |  Page 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 773.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (C. Creating a Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 580.7795 cm
+.533333 .533333 .533333 RG
+.968627 .972549 .980392 rg
+n
+4 0 m
+477.8898 0 l
+480.101 0 481.8898 1.7888 481.8898 4 c
+481.8898 185.9213 l
+481.8898 188.1325 480.101 189.9213 477.8898 189.9213 c
+4 189.9213 l
+1.7888 189.9213 0 188.1325 0 185.9213 c
+0 4 l
+0 1.7888 1.7888 0 4 0 c
+h
+B*
+.14902 .196078 .219608 rg
+n 0 153.0709 481.8898 36.85039 re f*
+BT /F2 7.5 Tf 9 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 14.17323 167.2441 Tm (Zoho Creator) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 362.8346 167.2441 Tm (Develop   Deploy   Manage) Tj T* ET
+.933333 .945098 .956863 rg
+n 0 0 104.8819 153.0709 re f*
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 124.7244 Tm (Forms) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 96.37795 Tm (Reports) Tj T* ET
+.862745 .921569 1 rg
+n
+10.50394 62.3622 m
+94.37795 62.3622 l
+95.48355 62.3622 96.37795 63.2566 96.37795 64.3622 c
+96.37795 80.20472 l
+96.37795 81.31032 95.48355 82.20472 94.37795 82.20472 c
+10.50394 82.20472 l
+9.398337 82.20472 8.503937 81.31032 8.503937 80.20472 c
+8.503937 64.3622 l
+8.503937 63.2566 9.398337 62.3622 10.50394 62.3622 c
+h
+f*
+BT /F2 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 68.0315 Tm (Pages) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 39.68504 Tm (Workflows) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 19.84252 11.33858 Tm (Settings) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 121.8898 138.8976 Tm (Dashboard) Tj T* ET
+1 1 1 rg
+.780392 .803922 .827451 RG
+n
+124.8898 68.0315 m
+218.1024 68.0315 l
+219.7608 68.0315 221.1024 69.3731 221.1024 71.0315 c
+221.1024 113.2205 l
+221.1024 114.8789 219.7608 116.2205 218.1024 116.2205 c
+124.8898 116.2205 l
+123.2314 116.2205 121.8898 114.8789 121.8898 113.2205 c
+121.8898 71.0315 l
+121.8898 69.3731 123.2314 68.0315 124.8898 68.0315 c
+h
+B*
+BT /F2 6.2 Tf 7.44 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 133.2283 96.37795 Tm (Total Students) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 133.2283 79.37008 Tm (120) Tj T* ET
+1 1 1 rg
+.780392 .803922 .827451 RG
+n
+235.4409 68.0315 m
+328.6535 68.0315 l
+330.3119 68.0315 331.6535 69.3731 331.6535 71.0315 c
+331.6535 113.2205 l
+331.6535 114.8789 330.3119 116.2205 328.6535 116.2205 c
+235.4409 116.2205 l
+233.7825 116.2205 232.4409 114.8789 232.4409 113.2205 c
+232.4409 71.0315 l
+232.4409 69.3731 233.7825 68.0315 235.4409 68.0315 c
+h
+B*
+BT /F2 6.2 Tf 7.44 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 243.7795 96.37795 Tm (Departments) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 243.7795 79.37008 Tm (6) Tj T* ET
+1 1 1 rg
+.780392 .803922 .827451 RG
+n
+345.9921 68.0315 m
+439.2047 68.0315 l
+440.8631 68.0315 442.2047 69.3731 442.2047 71.0315 c
+442.2047 113.2205 l
+442.2047 114.8789 440.8631 116.2205 439.2047 116.2205 c
+345.9921 116.2205 l
+344.3337 116.2205 342.9921 114.8789 342.9921 113.2205 c
+342.9921 71.0315 l
+342.9921 69.3731 344.3337 68.0315 345.9921 68.0315 c
+h
+B*
+BT /F2 6.2 Tf 7.44 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 354.3307 96.37795 Tm (New Records) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 354.3307 79.37008 Tm (24) Tj T* ET
+.603922 .643137 .682353 RG
+n 121.8898 22.67717 m 405.3543 22.67717 l S
+n 121.8898 22.67717 m 121.8898 79.37008 l S
+.431373 .658824 .996078 rg
+n 136.063 22.67717 28.34646 21.6767 re f*
+.431373 .658824 .996078 rg
+n 178.5827 22.67717 28.34646 33.34877 re f*
+.431373 .658824 .996078 rg
+n 221.1024 22.67717 28.34646 26.67902 re f*
+.431373 .658824 .996078 rg
+n 263.622 22.67717 28.34646 40.01853 re f*
+.431373 .658824 .996078 rg
+n 306.1417 22.67717 28.34646 30.0139 re f*
+.431373 .658824 .996078 rg
+n 348.6614 22.67717 28.34646 46.68828 re f*
+BT /F2 7 Tf 8.4 TL ET
+.133333 .133333 .133333 rg
+BT 1 0 0 1 428.0315 73.70079 Tm (Recent activity) Tj T* ET
+.909804 .933333 .960784 rg
+n
+429.0315 48.18898 m
+526.2441 48.18898 l
+526.7969 48.18898 527.2441 48.63618 527.2441 49.18898 c
+527.2441 61.3622 l
+527.2441 61.915 526.7969 62.3622 526.2441 62.3622 c
+429.0315 62.3622 l
+428.4787 62.3622 428.0315 61.915 428.0315 61.3622 c
+428.0315 49.18898 l
+428.0315 48.63618 428.4787 48.18898 429.0315 48.18898 c
+h
+f*
+.909804 .933333 .960784 rg
+n
+429.0315 28.34646 m
+526.2441 28.34646 l
+526.7969 28.34646 527.2441 28.79366 527.2441 29.34646 c
+527.2441 41.51969 l
+527.2441 42.07249 526.7969 42.51969 526.2441 42.51969 c
+429.0315 42.51969 l
+428.4787 42.51969 428.0315 42.07249 428.0315 41.51969 c
+428.0315 29.34646 l
+428.0315 28.79366 428.4787 28.34646 429.0315 28.34646 c
+h
+f*
+.909804 .933333 .960784 rg
+n
+429.0315 8.503937 m
+526.2441 8.503937 l
+526.7969 8.503937 527.2441 8.951137 527.2441 9.503937 c
+527.2441 21.67717 l
+527.2441 22.22997 526.7969 22.67717 526.2441 22.67717 c
+429.0315 22.67717 l
+428.4787 22.67717 428.0315 22.22997 428.0315 21.67717 c
+428.0315 9.503937 l
+428.0315 8.951137 428.4787 8.503937 429.0315 8.503937 c
+h
+f*
+Q
+q
+1 0 0 1 57.02362 575.1102 cm
+Q
+q
+1 0 0 1 57.02362 516.3102 cm
+q
+BT 1 0 0 1 0 43.4 Tm 13.2 TL /F2 9.4 Tf 0 0 0 rg (Explanation:) Tj /F1 9.4 Tf ( A dashboard provides a visual summary of application information. It can contain panels, charts,) Tj T* (reports, gauges, buttons and other components. The dashboard in the sample application can show the total) Tj T* (number of students, departments and recent records. It gives users a quick overview of important information in one) Tj T* (place.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 496.3102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (3. Exploring the platform architecture and interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 477.3102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (A. Develop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 458.1102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 The Develop section is the main area used to build and customize the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 438.9102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 It is used to create forms, reports, pages, workflows and other application components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 419.7102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 The visual interface reduces the amount of manual programming needed to build the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 400.7102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (B. Deploy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.5102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 The Deploy section is used to make the completed application available to its users.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 362.3102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 It supports application sharing and configuration of access and user permissions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.1102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 After testing, the application can be published so users can access the required features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 324.1102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (C. Manage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 304.9102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 The Manage section is used to administer the application after it has been created or deployed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 285.7102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 It provides options for managing users, permissions, security and application settings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 266.5102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.4 Tf 13.2 TL (\177 It helps administrators maintain the application and monitor its usage and configuration.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2912
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.733333 .733333 .733333 RG
+n 56.69291 807.874 m 538.5827 807.874 l S
+BT /F1 7.5 Tf 9 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 251.6403 25.51181 Tm (Experiment No. 2  |  Page 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 772.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (3. Exploring the platform architecture and interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.28346 721.2008 cm
+q
+.94902 .960784 .972549 rg
+n 0 46.5 450.7087 -46.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 6 cm
+q
+BT 1 0 0 1 0 26 Tm 11.5 TL /F2 8.5 Tf 0 0 0 rg (Develop) Tj /F1 8.5 Tf  T* (Build forms, reports, pages and) Tj T* (workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 155.2362 11.75 cm
+q
+BT 1 0 0 1 0 14.5 Tm 11.5 TL /F2 8.5 Tf 0 0 0 rg (Deploy) Tj /F1 8.5 Tf  T* (Publish and share the application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.4724 6 cm
+q
+BT 1 0 0 1 0 26 Tm 11.5 TL /F2 8.5 Tf 0 0 0 rg (Manage) Tj /F1 8.5 Tf  T* (Administer users, settings and) Tj T* (security) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.466667 .466667 .466667 RG
+.8 w
+n 0 46.5 m 450.7087 46.5 l S
+n 0 0 m 450.7087 0 l S
+n 0 0 m 0 46.5 l S
+n 450.7087 0 m 450.7087 46.5 l S
+.666667 .666667 .666667 RG
+.5 w
+n 150.2362 0 m 150.2362 46.5 l S
+n 300.4724 0 m 300.4724 46.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 701.3583 cm
+Q
+q
+1 0 0 1 57.02362 683.3583 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Interface and architecture summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.5583 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.4 Tm /F1 9.4 Tf 13.2 TL (Zoho Creator follows a low-code application-building approach in which the major application components can be) Tj T* (created through a visual interface. The development stage creates the application components, the deployment) Tj T* (stage makes the application available to users, and the management stage handles administration and) Tj T* (maintenance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 604.5583 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 545.7583 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.4 Tm /F1 9.4 Tf 13.2 TL (Thus, a Zoho Creator account was set up and a sample Student Management application was designed. The) Tj T* (creation and purpose of forms, reports and dashboards were studied, and the Develop, Deploy and Manage) Tj T* (sections of the platform were explored. The experiment helped understand how Zoho Creator can be used to build) Tj T* (and manage applications using a low-code approach.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 518.0811 cm
+Q
+q
+1 0 0 1 57.02362 489.0811 cm
+q
+BT 1 0 0 1 0 14.5 Tm 11.5 TL /F2 8.5 Tf 0 0 0 rg (Note:) Tj /F1 8.5 Tf ( The interface figures in this document are clean illustrative representations for the experiment record, showing the) Tj T* (relevant Zoho Creator components requested in the question.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+51.02362 51.02362 493.2283 62.3622 re
+f*
+Q
+
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000133 00000 n 
+0000000182 00000 n 
+0000000425 00000 n 
+0000003979 00000 n 
+0000004086 00000 n 
+0000004193 00000 n 
+0000004305 00000 n 
+0000004549 00000 n 
+0000015206 00000 n 
+0000015451 00000 n 
+0000023619 00000 n 
+0000023864 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+26829
+%%EOF
